@@ -1,0 +1,23 @@
+{
+  "name": "chart.html",
+  "version": "1.0.0",
+  "description": "a package to include chart.js easier in php and react",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronSlots/chartHTML.git"
+  },
+  "keywords": [
+    "chart.js",
+    "chart.html",
+    "charts",
+    "chart",
+    "HTML"
+  ],
+  "author": "Aaron Slots",
+  "homepage": "https://github.com/AaronSlots/chartHTML#readme",
+  "dependencies": {
+    "chart.js": "^2.9.3",
+    "react": "^16.12.0"
+  }
+}
