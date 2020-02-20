@@ -11,9 +11,6 @@ class ChartComponent extends Component{
         ctx = component.getContext('2d');
         myChart = new Chart(ctx, settings);
     }
-
-
-    
 }
 
 export default ChartComponent
